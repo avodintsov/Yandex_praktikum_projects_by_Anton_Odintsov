@@ -15,3 +15,5 @@
 - debt — имел ли задолженность по возврату кредитов
 - total_income — ежемесячный доход
 - purpose — цель получения кредита
+
+[Look at the Jupyther Notebook. In Russian]
