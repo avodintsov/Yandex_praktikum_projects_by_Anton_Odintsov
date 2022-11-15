@@ -1,4 +1,4 @@
-# Yandex_practikum Projects
+# Yandex practikum Projects
 My projects from yandex practicum
 
 ## Описание проектов:
