@@ -24,10 +24,6 @@
 
 ---
 
-### Схема базы данных
-
-![Untitled](%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%966%20%E2%80%9C%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B8%CC%86%20SQL%E2%80%9D%2057041afbce644f1a85c527dc4ebdb2d2/Untitled.png)
-
 ### Описание базы данных
 
 `acquisition`
