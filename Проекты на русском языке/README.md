@@ -1,3 +1,13 @@
+# Аналитик данных — Яндекс.Практикум
+Ссылка на курс: https://practicum.yandex.ru/data-analyst/
+
+---
+
+## Диплом и описание программы
+[Одинцов Антон.pdf](https://github.com/avodintsov/Yandex_praktikum_projects_by_Anton_Odintsov/files/11469077/default.pdf)
+
+---
+
 ## Описание проектов:
 | Номер проекта | Название и ссылка | Навыки |
 |---------------|-------------------|--------|
